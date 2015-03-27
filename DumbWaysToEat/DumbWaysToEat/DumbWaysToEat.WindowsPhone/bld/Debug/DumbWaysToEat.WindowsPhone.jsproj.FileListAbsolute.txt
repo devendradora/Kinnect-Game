@@ -1,0 +1,15 @@
+c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\bin\Debug\ReverseMap\resources.pri
+c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\bin\Debug\AppxManifest.xml
+c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\bin\Debug\DumbWaysToEat.WindowsPhone.build.appxrecipe
+c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\bld\Debug\priconfig.xml
+c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\bld\Debug\priconfig.xml.intermediate
+c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\bld\Debug\layout.resfiles
+c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\bld\Debug\layout.resfiles.intermediate
+c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\bld\Debug\resources.resfiles
+c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\bld\Debug\resources.resfiles.intermediate
+c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\bld\Debug\pri.resfiles
+c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\bld\Debug\pri.resfiles.intermediate
+c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\bld\Debug\qualifiers.txt
+c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\bld\Debug\qualifiers.txt.intermediate
+c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SUDHEESH</Machine>
+    <WindowsUser>SudheeshSinganamalla</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>137afc98-ce3f-4c2a-9cd2-c0e78892477b</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\css\main.css">
+      <PackagePath>css\main.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\css\reset.css">
+      <PackagePath>css\reset.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\css\ui-themed.css">
+      <PackagePath>css\ui-themed.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\css\ui-themed.theme-dark.css">
+      <PackagePath>css\ui-themed.theme-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\css\ui-themed.theme-light.css">
+      <PackagePath>css\ui-themed.theme-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\images\Square150x150Logo.scale-240.png">
+      <PackagePath>images\Square150x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\images\Square44x44Logo.scale-240.png">
+      <PackagePath>images\Square44x44Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\images\Wide310x150Logo.scale-240.png">
+      <PackagePath>images\Wide310x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\images\Square71x71Logo.scale-240.png">
+      <PackagePath>images\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\images\SplashScreen.scale-240.png">
+      <PackagePath>images\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\images\StoreLogo.scale-240.png">
+      <PackagePath>images\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\img\burger.png">
+      <PackagePath>img\burger.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\img\carrot.png">
+      <PackagePath>img\carrot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\img\frenchies.png">
+      <PackagePath>img\frenchies.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\img\noodles.png">
+      <PackagePath>img\noodles.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\img\pizza.png">
+      <PackagePath>img\pizza.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\img\puff.png">
+      <PackagePath>img\puff.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\img\pizza.svg">
+      <PackagePath>img\pizza.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.Shared\js\core.js">
+      <PackagePath>js\core.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.Shared\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.Shared\js\header.js">
+      <PackagePath>js\header.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sudheeshsinganamalla\documents\visual studio 2013\Projects\DumbWaysToEat\DumbWaysToEat\DumbWaysToEat.WindowsPhone\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\">
+      <Name>Microsoft.Phone.WinJS.2.1</Name>
+      <Version>1.0.9651.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Phone.WinJS.2.1, MinVersion=1.0.9651.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\Microsoft.Phone.WinJS.2.1.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
